@@ -1,0 +1,14 @@
+body {
+	background-color: lightgreen;
+  color: black;
+	text-align: center;
+
+}
+
+input[type=number] {
+  background-color: yellow;
+  color: black;
+  width: 10%;
+  padding: 2px;
+  cursor: pointer;
+}
